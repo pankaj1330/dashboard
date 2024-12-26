@@ -1,7 +1,7 @@
 ## ON Local Machine 
 ## Steps
 
-1. **make sure you have node installed on your machine**
+1. **Make sure you have node installed on your machine**
 
 2. **Install Dependencies**
    ```
@@ -14,7 +14,7 @@
    ```
    Visit `http://localhost:5173` in your browser.
 
-##*******************************************************##
+## ******************************************************* ##
 
 ## Technologies Used
 
@@ -22,7 +22,7 @@
 - React Router
 - CSS Modules / Styled Components
 
-##*******************************************************##
+## ******************************************************* ##
 
 ## Live link
 Dashboard - 
