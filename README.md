@@ -14,7 +14,6 @@
    ```
    Visit `http://localhost:5173` in your browser.
 
-## ******************************************************* ##
 
 ## Technologies Used
 
@@ -22,7 +21,6 @@
 - React Router
 - CSS Modules / Styled Components
 
-## ******************************************************* ##
 
 ## Live link
 Dashboard - 
